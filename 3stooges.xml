@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<three_stooges>
+
+<person type="stooge">
+    <first_name>Curly</first_name>
+    <middle_initial>Joe</middle_initial>
+    <last_name>DeRita</last_name>
+</person>
+
+
+<person type="stooge">
+    <first_name>Joe</first_name>
+    <middle_initial></middle_initial>
+    <last_name>Besser</last_name>
+</person>
+
+
+<person type="stooge">
+    <first_name>Curly</first_name>
+    <middle_initial></middle_initial>
+    <last_name>Howard</last_name>
+</person>
+
+
+<person type="stooge">
+    <first_name>Larry</first_name>
+    <middle_initial></middle_initial>
+    <last_name>Fine</last_name>
+</person>
+
+<person type="stooge">
+    <first_name>Shemp</first_name>
+    <middle_initial></middle_initial>
+    <last_name>Howard</last_name>
+</person>
+
+<person type="stooge">
+    <first_name>Moe</first_name>
+    <middle_initial></middle_initial>
+    <last_name>Howard</last_name>
+</person>
+
+</three_stooges>
