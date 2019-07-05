@@ -41,4 +41,28 @@
     <last_name>Howard</last_name>
 </person>
 
+
+<person type="stooge">
+    <first_name>Chris</first_name>
+    <middle_initial></middle_initial>
+    <last_name>Diamantopoulos</last_name>
+    <character>Moe</character>
+</person>
+
+<person type="stooge">
+    <first_name>Sean</first_name>
+    <middle_initial></middle_initial>
+    <last_name>Hayes</last_name>
+    <character>Larry</character>
+</person>
+
+<person type="stooge">
+    <first_name>Will</first_name>
+    <middle_initial>Christopher</middle_initial>
+    <last_name>Sasso</last_name>
+    <character>Curly</character>
+</person>
+
+
+
 </three_stooges>
